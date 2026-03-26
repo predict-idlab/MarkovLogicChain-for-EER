@@ -1,0 +1,27 @@
+# List of features used during training
+
+- **Basement occurrence**: none, partial, all
+- **Building type**: detached SFH or terraced SFH
+- **Construction year**: numerical
+- **DHW systems on electricity**: electrical resistance or heat pump
+- **End uses**: electricity production or space cooling
+- **Energy carriers cooking**: electricity or district gas
+- **Energy carriers cooling**: electricity
+- **Energy carriers DHW**: coal, electricity, district gas, oil, pellets or wood
+- **Energy carriers heating**: coal, electricity, district gas, oil, pellets or wood
+- **EPC before**: numerical
+- **Floor area**: numerical
+- **Floor boundary type**: basement/crawl space or plain ground
+- **Has photovoltaic panels**: 0 or 1
+- **Insulation floor above basement**: not, lightly or moderately insulated
+- **Insulation front facade**: not, lightly or moderately insulated
+- **Insulation rear facade**: not, lightly or moderately insulated
+- **Insulation side facades**: not, lightly or moderately insulated or not applicable
+- **Insulation roof of the main volume**: not, lightly or moderately insulated, not applicable or unknown
+- **Insulation roof of the extension volume**: not, lightly or moderately insulated, not applicable or unknown
+- **Roof area available for solar panels**: numerical
+- **Space heating emission systems**: air, convector, floor, local stove or radiator
+- **Space heating generation systems on burning fuel**: central boiler
+- **Space heating generation systems on electricity**: central heat pump or local resistance heaters
+- **Ventilation system**: natural, natural with vents in the windows, minimal mechanical or demand-controlled mechanical
+- **Window glazing type**: single glazing, old double glazing, double high-efficiency glazing, triple glazing
