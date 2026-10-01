@@ -4,4 +4,5 @@ This repository contains the code, dataset and results of the paper 'Leveraging 
 
 Only a subset of the data is made available due to confidentiality reasons, but the reported results stem from the full dataset.
 
-*This README will be further extended after the double-blind review process.*
+# LICENSE
+This code is copyrighted by [Ghent University – imec](http://idlab.ugent.be/) and released under the [MIT license](http://opensource.org/licenses/MIT).
